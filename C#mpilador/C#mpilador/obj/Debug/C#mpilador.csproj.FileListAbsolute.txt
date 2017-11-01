@@ -1,0 +1,8 @@
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\bin\Debug\C#mpilador.exe.config
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\bin\Debug\C#mpilador.exe
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\bin\Debug\C#mpilador.pdb
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\obj\Debug\C#mpilador.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\obj\Debug\C_mpilador.MainForm.resources
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\obj\Debug\C#mpilador.csproj.GenerateResource.Cache
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\obj\Debug\C#mpilador.exe
+C:\Users\Cristian\Documents\SharpDevelop Projects\C#mpilador\C#mpilador\obj\Debug\C#mpilador.pdb
